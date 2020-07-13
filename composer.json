@@ -1,0 +1,17 @@
+{
+    "name": "emmaodonkor/autoloading",
+    "description": "This is an autoloader",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Emmanuel",
+            "email": "emmadonk1530@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Info\\": "src/"
+        }
+    },
+    "require": {}
+}
