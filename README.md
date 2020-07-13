@@ -6,7 +6,9 @@ The src folder contains the classes which are autoloaded into index.php. The ind
 
 The classes:
 1. Student.php
+
 2.Calculator.php
+
 3.Teacher(Trait)
 
 
