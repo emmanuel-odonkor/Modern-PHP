@@ -1,9 +1,16 @@
 # Modern-PHP
 
-#NAMESPACES:
+These files implements and explains the idea of classes,traits, namespaces and the idea of autoloads.
 
-The PHP Files named,"add.php and use.php" explains how namespaces work, as well as how they uniquely identify the function add().
+The src folder contains the classes which are autoloaded into index.php. The index.php executes the methods of the Student, Calculator class, and the Trait Teacher.
 
-#CLASSES,OBJECTS,INTERFACES,TRAITS:
+The classes:
+1. Student.php
+2.Calculator.php
+3.Teacher(Trait)
 
-The PHP Files names,"php_practice.php and test2.php" explains the concept of classes,interfaces,traits, and objects.
+
+
+The autoloads was automatically configured with COMPOSER, a PHP dependency manager on the command line.
+
+
